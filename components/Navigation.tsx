@@ -10,7 +10,7 @@ export default function Navigation(){
                 <li><Link href={'/#trabajo'}> Trabajo</Link></li>
                 <li><Link 
                     target="_blank"
-                    href={'/PROGRAMARDOR - CASTILLO FLORES STEVEN ANTONY.pdf'}>CV</Link></li>
+                    href={'/ANALISTA & PROGRAMARDOR - CASTILLO FLORES STEVEN ANTONY.pdf'}>CV</Link></li>
             </ul>
         </nav>
     )

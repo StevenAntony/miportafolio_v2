@@ -18,11 +18,11 @@ export default function Home() {
         <section className="2xl:mx-96 xl:mx-32 mx-10 sm:py-28">
           <p className={`${spaceMono.className} text-app mb-3`}>Hola, soy</p>
           <h2 className="sm:text-6xl text-3xl font-black mb-2">Steven Antony</h2>
-          <h1 className="sm:text-7xl text-4xl font-black text-slate-400">Programador Web</h1>
+          <h1 className="sm:text-7xl text-4xl font-black text-slate-400">Analista & Programador</h1>
           <div className="sm:w-5/12">
             <Paragraph >
               Soy Egresado de la carrera de Ingeniería en Computación e Informática de la Universidad Nacional Pedro Ruiz Gallo,
-              me especializo en análisis, diseño, programación de aplicaciones web.
+              me especializo en análisis, diseño, programación de aplicaciones.
             </Paragraph>
           </div>
           <div className="mt-2">
@@ -45,7 +45,7 @@ export default function Home() {
             </div>
             <div className="sm:w-4/6 px-8">
               <Paragraph >
-                ¡Hola! Mi nombre es Steven Antony y me complace presentarme. Soy un profesional con experiencia en el campo del desarrollo de aplicaciones web. 
+                ¡Hola! Mi nombre es Steven Antony y me complace presentarme. Soy un profesional con experiencia en el campo del desarrollo de aplicaciones. 
                 A lo largo de los últimos cinco años, he trabajado en diversas empresas, desempeñando roles <Important>Programador</Important>, <Important>Analista</Important>
                 , <Important>Gestor de Base de Datos</Important>, <Important>UX & UI</Important>, <Important>Administrador de Servidor web (Digital Ocean)</Important>.
                 <br /> <br />
